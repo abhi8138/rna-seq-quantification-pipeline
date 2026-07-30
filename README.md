@@ -7,12 +7,6 @@ feeding a downstream differential expression and multi-omics
 (transcriptomic + metabolomic) analysis; the pipeline itself is
 data-agnostic and works on any paired-end RNA-seq sample set.
 
-**Publication:** *Pilot longitudinal integrated transcriptomic-metabolomic
-study reveals immune and metabolic signatures in non-hospitalized
-healthcare workers with long COVID.* Frontiers in Cellular and Infection
-Microbiology (2026, in press).
-https://doi.org/10.3389/fcimb.2026.1808564
-
 ## Where this fits in the larger pipeline
 
 Raw FASTQs were staged onto the cluster ahead of time via a Globus
