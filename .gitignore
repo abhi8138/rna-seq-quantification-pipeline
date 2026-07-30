@@ -1,0 +1,13 @@
+# sequencing data / large files
+*.fastq.gz
+*.fq.gz
+
+# pipeline outputs
+quants/
+fastqs_repaired/
+fastqs_filtered/
+logs/
+
+# environment / OS
+.DS_Store
+*.log
